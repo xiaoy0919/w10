@@ -5,6 +5,8 @@ For my project, I was inspired by the splendid images of falling meteors. That i
 
 ![Meteor Example 1](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p1.png)
 ![Meteor Example 2](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p2.png)
+![Meteor Example 3](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p3.png)
+![Meteor Example 4](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p4.png)
 
 ##  Part 2: Coding Technique Exploration
 

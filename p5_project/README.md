@@ -10,6 +10,6 @@ For my project, I was inspired by the splendid images of falling meteors. That i
 
 To implement the falling meteor effect, I adapted a p5.js code example that creates floating objects with trails from happycodding.io. Moreover, this code can be easily modified to resemble falling meteors by adjusting the trail size and color. Also,the p5.js code allows for dynamic animation of multiple objects (meteors) on screen. That is, each object moving with individual randomness. By using  technique, I can create a magical and interactive scene where numerous meteors fall, adding visual depth and enhancing mysterious vibe in the project.
 
-![p5.js Meteor Example]([path-to-your-p5js-output](https://happycoding.io/tutorials/p5js/creating-classes/ghosts))
+![p5.js Meteor Example](reference: https://happycoding.io/tutorials/p5js/creating-classes/ghosts)
 
 

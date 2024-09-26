@@ -4,7 +4,7 @@
 For my project, I was inspired by the splendid images of falling meteors. That is , the aesthetic of bright, colorful meteors falling from the sky gives a dreamlike, surreal feeling to all the scenes. Thus, I believe this technique will enhance my final project by creating a fantastical and visually appealing atmosphere. Moreover, the elegance of the meteors and their dynamic movements make them a great fit for my design. Namely,these falling stars can give a fantasy-like vibe for my project, adding depth and wonder to the visuals.
 
 ![Meteor Example 1](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p1.png)
-![Meteor Example 2](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p2.png)
+    ![Meteor Example 2](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p2.png)
 ![Meteor Example 3](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p3.png)
 ![Meteor Example 4](https://github.com/xiaoy0919/xiyu0585_9103_tut9/blob/main/p5_project/assests/p4.png)
 
